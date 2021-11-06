@@ -42,8 +42,7 @@ class Question {
 
     this.button.mousePressed(()=>{
       
-      this.message.html("Thank You, Your Answer Has Been Submitted");
-      this.message.position(350, 350);
+     
 
 
     });
